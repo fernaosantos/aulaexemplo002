@@ -1,4 +1,7 @@
 
+#adicionada nova variavel
+
+var variavel = "nome";
 var minhabiblioteca = require("./exemplomodule");
 
 var http = require('http');
